@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with ahmet demir !!!! lastest remove looks
+          Learn React with ahmet demir !!!! lastest remove looks ada
         </a>
       </header>
     </div>
