@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with ahmet demir lord
+          Learn React with ahmet demir lord of the rings !!!!
         </a>
       </header>
     </div>
