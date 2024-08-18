@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with ahmet demir !!!! lastest antro luxasadadada
+          Learn React with ahmet demir !!!! lastest remove
         </a>
       </header>
     </div>
