@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with ahmet demir !!!! alyona return erden
+          Learn React with ahmet demir !!!! alyona return erden xx
         </a>
       </header>
     </div>
